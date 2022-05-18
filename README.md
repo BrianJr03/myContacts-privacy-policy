@@ -1,2 +1,2 @@
 # myContacts-privacy-policy
-Private Policy for myContacts app.
+Privacy Policy for myContacts app.
